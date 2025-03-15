@@ -98,7 +98,7 @@
         <dependency>
             <groupId>org.openpnp</groupId>
             <artifactId>opencv</artifactId>
-            <version>3.2.0-1</version>
+            <version>4.9.0-0</version>
         </dependency>
 
         <!-- PDFBox https://mvnrepository.com/artifact/org.apache.pdfbox/pdfbox -->
